@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FL2022-Assignment1-aferrier", "FL2022-Assignment1-aferrier\FL2022-Assignment1-aferrier.csproj", "{92E8D762-7ED0-4032-943E-96D1F3A56FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E8D762-7ED0-4032-943E-96D1F3A56FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E8D762-7ED0-4032-943E-96D1F3A56FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E8D762-7ED0-4032-943E-96D1F3A56FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E8D762-7ED0-4032-943E-96D1F3A56FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E91CB3E-B3D6-4DED-B7D1-0A113BFDC3F0}
+	EndGlobalSection
+EndGlobal
